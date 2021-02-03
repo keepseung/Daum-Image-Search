@@ -22,7 +22,7 @@
     * Glide 4.11.0      // Image Loading Tool
     * Palette 1.0.0    // For getting Image Color
   
-  * MVVM 아키텍쳐 디자 패턴 적용
+  * MVVM 아키텍쳐 디자인 패턴 적용
 
 
 ## 프로젝트 구성 - Directory 
