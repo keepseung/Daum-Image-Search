@@ -1,22 +1,6 @@
 # Daum-Image-Search
 카카오 'Daum 검색 - 이미지 검색' API를 사용한 이미지 검색 앱입니다.
 
-## 목차
-
-- [개발 환경](#개발-환경)
-- [프로젝트 구성](#프로젝트-구성)
-    - [1. Directory](#1-directory)
-    - [2. Architecture Design Pattern and Paging](#2-architecture-design-pattern-and-paging)
-    - [3. Dependency Injection](#3-dependency-injection)
-    - [4. CI](#4-ci)
-- [화면 구성](#화면-구성)
-    - [1. IntroFragment](#1-introfragment)
-    - [2. ImageListFragment](#2-imagelistfragment)
-    - [3. ImageDialog](#3-imagedialog)
-- [작업 계획](#작업-계획)
-- [License](#license)
-    
-
 ## 개발 환경, 사용 라이브러리
   * 기본 환경
     * JVM target : Java-1.8
@@ -36,9 +20,9 @@
     * Retrofit 2.9.0    // REST API 
     * Rxjava 2.9.0    // For Handling Async Task (REST API)
     * Glide 4.11.0      // Image Loading Tool
-    * Palette       // For getting Image Color
+    * Palette 1.0.0    // For getting Image Color
   
-  * MVVM 아키텍쳐 디자 패턴 적용
+  * MVVM 아키텍쳐 디자인 패턴 적용
 
 
 ## 프로젝트 구성 - Directory 
